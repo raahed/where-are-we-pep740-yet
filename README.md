@@ -1,4 +1,4 @@
-# Are we PEP 740 yet? 🔏
+# Where are we PEP 740 yet? 🔏 (fork of "are we PEP 740 yet")
 
 [![Deploy site](https://github.com/raahed/where-are-we-pep740-yet/actions/workflows/deploy.yml/badge.svg)](https://github.com/raahed/where-are-we-pep740-yet/actions/workflows/deploy.yml)
 
